@@ -8,10 +8,9 @@ cryptography==38.0.1
 defusedxml==0.7.1
 Django==4.1.2
 django-phonenumber-field==7.0.0
-django-phonenumbers==1.0.1
 django-templated-mail==1.1.1
 djangorestframework==3.14.0
-djangorestframework-simplejwt==5.2.2
+djangorestframework-simplejwt==4.8.0
 djoser==2.1.0
 idna==3.4
 itypes==1.2.0
@@ -30,5 +29,6 @@ six==1.16.0
 social-auth-app-django==4.0.0
 social-auth-core==4.3.0
 sqlparse==0.4.3
+tzdata==2022.6
 uritemplate==4.1.1
 urllib3==1.26.12
