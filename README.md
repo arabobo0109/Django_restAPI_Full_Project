@@ -4,7 +4,7 @@ This is a REST API for a Pizza delivery service built for fun and learning with 
 
 ## ROUTES TO IMPLEMENT
 | METHOD | ROUTE | FUNCTIONALITY |ACCESS|
-| ------- | ----- | ------------- | ------------- |
+| ------- |------:| ------------- | ------------- |
 | *POST* | ```/auth/signup/``` | _Register new user_| _All users_|
 | *POST* | ```/auth/jwt/create/``` | _Login user_|_All users_|
 | *POST* | ```/auth/jwt/refresh/``` | _Refresh the access token_|_All users_|
